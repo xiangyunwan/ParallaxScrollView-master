@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_sky.jpg",
+        "source": "D:\\github-source\\demo\\demo\\src\\main\\res\\drawable-mdpi\\bg_sky.jpg"
+    },
+    {
+        "merged": "D:\\github-source\\ParallaxScrollView-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_sky.jpg",
+        "source": "D:\\github-source\\ParallaxScrollView-master\\demo\\src\\main\\res\\drawable-mdpi\\bg_sky.jpg"
+    }
+]

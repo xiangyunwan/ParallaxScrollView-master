@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ParallaxScrollView-master\demo\build\intermediates\exploded-aar\ParallaxScrollView-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4036d5f88cfa86fc7d27f336f5d8590829f03571">
+        <dex dex="D:\github-source\ParallaxScrollView-master\demo\build\intermediates\pre-dexed\debug\ParallaxScrollView-master-library-unspecified_9030ea35dbf360f76f1f483613c785fddbe6a97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\github-source\ParallaxScrollView-master\demo\build\intermediates\pre-dexed\debug\support-v4-18.0.0_28b527de2b3c46f9ad747a34d2eab53f0bbe7b26.jar" />
+    </item>
+
+</items>

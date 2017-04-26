@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\demo\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\demo\\demo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\github-source\\ParallaxScrollView-master\\demo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\github-source\\ParallaxScrollView-master\\demo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

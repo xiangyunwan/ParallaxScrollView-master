@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\demo\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo.xml",
+        "source": "D:\\github-source\\demo\\demo\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "D:\\github-source\\ParallaxScrollView-master\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo.xml",
+        "source": "D:\\github-source\\ParallaxScrollView-master\\demo\\src\\main\\res\\layout\\activity_demo.xml"
+    }
+]
